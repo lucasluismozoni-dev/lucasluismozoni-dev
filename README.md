@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá
 
-<!--
-**lucasluismozoni-dev/lucasluismozoni-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Aqui você encontrará um pouco sobre mim e meus projetos.
 
-Here are some ideas to get you started:
+- Atualmente estou trabalhando em **projetos de desenvolvimento web e backend**
+- Estou aprendendo **Node.js, TypeScript e boas práticas de arquitetura de software**
+- Procuro colaborar em **projetos open source e iniciativas de tecnologia**
+- Estou em busca de ajuda para **aprimorar minhas habilidades em DevOps e Cloud**
+- Pergunte-me sobre **JavaScript, APIs REST, ou desenvolvimento de software em geral**
+- Como me encontrar: **[seu-email@exemplo.com](mailto:seu-email@exemplo.com)** ou pelo LinkedIn
+- Pronomes: **ele/dele**
+- Curiosidade: **Sou apaixonado por resolver problemas complexos com soluções simples**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Este repositório é especial porque o `README.md` aparece diretamente no meu perfil do GitHub!
+
+
